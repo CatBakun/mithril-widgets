@@ -1,0 +1,4 @@
+{
+     "plugins": ["mjsx"],
+     "presets": ["es2015"]
+}
